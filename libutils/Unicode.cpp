@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#define char16_t uint16_t
 #include <utils/Unicode.h>
 
 #include <stddef.h>
